@@ -39,4 +39,4 @@ git rebase
 Конец ДЗ.
 
 Тест для GitHub
-
+Тест для pull
