@@ -49,3 +49,8 @@ git push
 git pull
 ```
 сайт GitHub: [www.github.com]
+
+## Для просмотра логов в графическом виде используем команду
+```
+git log --graph --all
+```
